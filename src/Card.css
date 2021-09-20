@@ -1,0 +1,6 @@
+.card{
+    margin-top:2rem;
+    position: absolute !important;
+    right:50% !important;
+    transform: translate(50%,0)!important;
+}
